@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.6.4)
+  - GoogleMaps (6.2.1):
+    - GoogleMaps/Maps (= 6.2.1)
+  - GoogleMaps/Base (6.2.1)
+  - GoogleMaps/Maps (6.2.1):
+    - GoogleMaps/Base
+  - RxSwift (6.5.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - GoogleMaps
+  - RxSwift
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - GoogleMaps
+    - RxSwift
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  GoogleMaps: 20d7b12be49a14287f797e88e0e31bc4156aaeb4
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+
+PODFILE CHECKSUM: d0d3b862c424233e96da77723e0dadfd738fa9f0
+
+COCOAPODS: 1.11.3
